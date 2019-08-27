@@ -1,0 +1,7 @@
+
+{
+    "api_name": "PyMock",
+    "secret_key": "SECRETKEY",
+    "db_connection_string": "sqlite://///your/path/database.db"
+  }
+  

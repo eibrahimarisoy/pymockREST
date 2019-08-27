@@ -1,0 +1,6 @@
+Flask
+flask-httpauth
+flask-SQLAlchemy
+passlib
+itsdangerous
+sqlite3
